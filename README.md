@@ -1,4 +1,4 @@
-# LambdaSchool Free Mini Bootcamp Homework 3 #
+ # LambdaSchool Free Mini Bootcamp Homework 3 #
 
 ## Task One ##
 
@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Doug
 
-I like to:
+I like to: learn new things, code, and hang out
 
-I'm learning:
+I'm learning: front end, .NET Core/MVC/Entity Framework
 
 ```
 
